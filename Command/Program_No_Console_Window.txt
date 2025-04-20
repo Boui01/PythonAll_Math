@@ -1,0 +1,2 @@
+ใส่ใน Properties -> Shortcut -> Target:  
+ pythonw.exe "ชื่อ PATH file run" 
